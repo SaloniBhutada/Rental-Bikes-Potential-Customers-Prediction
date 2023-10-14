@@ -1,4 +1,4 @@
-# Bike Rental Customer Prediction using Machine Learning in Python
+# Bike Rental Demand Forecasting using Machine Learning in Python
 
 This project aims to predict the number of bike rentals based on various attributes using regression analysis. We analyzed the Rental Bike Sharing Dataset from 2011 and 2012 to develop a regression model that accurately predicts rental counts. The ultimate goal is to help bike-sharing companies optimize their inventory and pricing strategies.
 
