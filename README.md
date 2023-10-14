@@ -64,8 +64,8 @@ For the detailed implementation and code, please refer to the Jupyter Notebook i
 
 ## About the Authors
 
-- Saloni Bhutada (NEU ID: 002191872)
-- Aman Maheshwari (NEU ID: 001008819)
+- Saloni Bhutada 
+- Aman Maheshwari
 
 ## Acknowledgments
 
