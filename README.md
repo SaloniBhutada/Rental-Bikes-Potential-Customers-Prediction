@@ -69,6 +69,6 @@ For the detailed implementation and code, please refer to the Jupyter Notebook i
 
 ## Acknowledgments
 
-Special thanks to the Rental Bike Sharing Dataset for providing valuable data for this analysis.
+Special thanks to Capital Bikeshare system of Washington D.C. for providing valuable data for this analysis.
 
 Feel free to explore the Jupyter Notebook for in-depth details and code implementation. Your contributions and feedback are always welcome. Enjoy exploring the world of bike rental predictions!
