@@ -59,8 +59,7 @@ Results from both Linear Regression and KNN Regression were evaluated, and predi
 
 Attempts to improve the model included addressing skewness, feature engineering, and introducing Principal Component Analysis (PCA). The impact of these changes on model performance was assessed.
 
-<img src="Model Output/ToolP1.png" alt="Tool">
-<img src="Model Output/ToolP2.png" alt="Tool">
+<img src="Model_Output/Model_Improvement_Results.png" alt="Tool">
 
 ## Conclusion <a name="conclusion"></a>
 
