@@ -52,13 +52,13 @@ Various visualizations were created to understand user count distributions acros
 
 Results from both Linear Regression and KNN Regression were evaluated, and predictions were visualized. Various model variations were explored to determine the most effective approach.
 
-<img src="Model_Output/Model_Results.png" alt="Tool">
+<img src="Model_Output/Model_Results.png" alt="Model_Output">
 
 ## Model Improvement <a name="model-improvement"></a>
 
 Attempts to improve the model included addressing skewness, feature engineering, and introducing Principal Component Analysis (PCA). The impact of these changes on model performance was assessed.
 
-<img src="Model_Output/Model_Improvement_Results.png" alt="Tool">
+<img src="Model_Output/Model_Improvement_Results.png" alt="Model_Output">
 
 ## Conclusion <a name="conclusion"></a>
 
