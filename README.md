@@ -52,8 +52,7 @@ Various visualizations were created to understand user count distributions acros
 
 Results from both Linear Regression and KNN Regression were evaluated, and predictions were visualized. Various model variations were explored to determine the most effective approach.
 
-<img src="Model Output/ToolP1.png" alt="Tool">
-<img src="Model Output/ToolP2.png" alt="Tool">
+<img src="Model_Output/Model_Results.png" alt="Tool">
 
 ## Model Improvement <a name="model-improvement"></a>
 
