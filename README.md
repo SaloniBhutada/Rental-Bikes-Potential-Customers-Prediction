@@ -64,7 +64,7 @@ Attempts to improve the model included addressing skewness, feature engineering,
 
 The project aimed to predict bike rentals using regression models. The KNN Regressor emerged as a reasonable baseline model for this use case. Although preprocessing and feature engineering were attempted, improvements were limited. Alternative regression models and approaches like hyperparameter tuning may yield better results. Outliers were retained as they may contain valuable information for the model.
 
-For the detailed implementation and code, please refer to the Jupyter Notebook in this repository.
+For the detailed implementation and code, please refer to the Jupyter Notebook in this repository and [Report](Report/Final%20Project%20Report.pdf).
 
 ## About the Authors
 
